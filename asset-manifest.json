@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/m21tech.github.io/static/css/main.ff6d2a82.css",
+    "main.js": "/m21tech.github.io/static/js/main.7e685946.js",
+    "static/media/softwareArchImg.png": "/m21tech.github.io/static/media/softwareArchImg.5feed454fbbbc3079e33.png",
+    "static/media/stars-bg.jpg": "/m21tech.github.io/static/media/stars-bg.4c8e62d9c3dc642e76fd.jpg",
+    "static/media/techImage.png": "/m21tech.github.io/static/media/techImage.fe37c7adb4c65787c611.png",
+    "static/media/webDev.png": "/m21tech.github.io/static/media/webDev.2f97dfab814c2a6b8f37.png",
+    "static/media/deep_learning_certificate.png": "/m21tech.github.io/static/media/deep_learning_certificate.80a02af5fd7a6c1edd88.png",
+    "static/media/innovation.jpg": "/m21tech.github.io/static/media/innovation.6b223d1eb7baf57f3b64.jpg",
+    "static/media/code4all_web.png": "/m21tech.github.io/static/media/code4all_web.debebcd49f62b064b8f6.png",
+    "static/media/se_image.jpg": "/m21tech.github.io/static/media/se_image.59d281151a0c89808897.jpg",
+    "static/media/bootstrap-icons.woff?": "/m21tech.github.io/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/m21tech.github.io/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/zelleImg.png": "/m21tech.github.io/static/media/zelleImg.fe1c00bea662051d03a7.png",
+    "static/media/CentraNo2-Bold.ttf": "/m21tech.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/m21tech.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/m21tech.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/cybersecurity.jpg": "/m21tech.github.io/static/media/cybersecurity.9e94c43ddf6cab251359.jpg",
+    "static/media/header-image.jpg": "/m21tech.github.io/static/media/header-image.f7ad30272823b8d1d410.jpg",
+    "static/media/java1.png": "/m21tech.github.io/static/media/java1.744962a001bd0de04525.png",
+    "static/media/avatar-person.png": "/m21tech.github.io/static/media/avatar-person.18de20d5a05a94fc7a42.png",
+    "static/media/adTech2.jpeg": "/m21tech.github.io/static/media/adTech2.4abf750aa0c2f76ed418.jpeg",
+    "static/media/revicons.eot": "/m21tech.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/m21tech.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/m21tech.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/skills-svgrepo-com.svg": "/m21tech.github.io/static/media/skills-svgrepo-com.d8fd3ae1baf61a0e4e3bd739f3b379f3.svg",
+    "static/media/shield.svg": "/m21tech.github.io/static/media/shield.eac750f3fe806eeeeb11720a01ea055e.svg",
+    "static/media/home-alt-svgrepo-com.svg": "/m21tech.github.io/static/media/home-alt-svgrepo-com.8a64013ed04df9e68df96472b8a14c9c.svg",
+    "static/media/computer-svgrepo-com.svg": "/m21tech.github.io/static/media/computer-svgrepo-com.139e9f38f75fb72ff7527734a76f84ba.svg",
+    "index.html": "/m21tech.github.io/index.html",
+    "main.ff6d2a82.css.map": "/m21tech.github.io/static/css/main.ff6d2a82.css.map",
+    "main.7e685946.js.map": "/m21tech.github.io/static/js/main.7e685946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff6d2a82.css",
+    "static/js/main.7e685946.js"
+  ]
+}

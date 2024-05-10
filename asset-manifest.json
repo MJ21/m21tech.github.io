@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/m21tech.github.io/static/css/main.ff6d2a82.css",
-    "main.js": "/m21tech.github.io/static/js/main.7e685946.js",
+    "main.js": "/m21tech.github.io/static/js/main.85a04180.js",
     "static/media/softwareArchImg.png": "/m21tech.github.io/static/media/softwareArchImg.5feed454fbbbc3079e33.png",
     "static/media/stars-bg.jpg": "/m21tech.github.io/static/media/stars-bg.4c8e62d9c3dc642e76fd.jpg",
     "static/media/techImage.png": "/m21tech.github.io/static/media/techImage.fe37c7adb4c65787c611.png",
@@ -30,10 +30,10 @@
     "static/media/computer-svgrepo-com.svg": "/m21tech.github.io/static/media/computer-svgrepo-com.139e9f38f75fb72ff7527734a76f84ba.svg",
     "index.html": "/m21tech.github.io/index.html",
     "main.ff6d2a82.css.map": "/m21tech.github.io/static/css/main.ff6d2a82.css.map",
-    "main.7e685946.js.map": "/m21tech.github.io/static/js/main.7e685946.js.map"
+    "main.85a04180.js.map": "/m21tech.github.io/static/js/main.85a04180.js.map"
   },
   "entrypoints": [
     "static/css/main.ff6d2a82.css",
-    "static/js/main.7e685946.js"
+    "static/js/main.85a04180.js"
   ]
 }

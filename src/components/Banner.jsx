@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap'
 import headerImg from '../assets/images/header-image.jpg';
+import Image from 'react-bootstrap/Image';
 
 const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -53,7 +54,7 @@ const Banner = () => {
             <h1>{`Hi! I'm Michael `}</h1><span className='wrap'>{text}</span>
           </Col>
           <Col xs={12} md={6} xl={5}>
-            <img src={headerImg} alt="Header Image" style={{borderRadius: '30px'}}/>
+            <Image src={headerImg} fluid rounded/>
           </Col>
         </Row>
       </Container>
